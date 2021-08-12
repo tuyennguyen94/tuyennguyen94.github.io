@@ -1,1 +1,1 @@
-# tuyennguyen94.github.io
+để sửa thông tin, vào file config.js
